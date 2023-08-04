@@ -1,5 +1,5 @@
-#                 Hi there, I'm [Evgeny](https://github.com/uEvg) 
-## 🌱 I am a beginner programmer 🇷🇺
+#  🇷🇺 Hi there, I'm [Evgeny](https://github.com/uEvg) 
+## 🌱 I am a programmer 
 ## :shipit: I study computer science, C++, and operating systems
 ## 💬 You can contact me on telegram [@u_E_v_g](https://t.me/u_E_v_g) 
 
